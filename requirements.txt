@@ -1,0 +1,9 @@
+
+---
+
+## 📄 requirements.txt
+```text
+numpy
+pandas
+scikit-learn
+streamlit
